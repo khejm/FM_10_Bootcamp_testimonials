@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/khejm/FM_10_Bootcamp_testimonials.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://khejm.github.io/FM_10_Bootcamp_testimonials/
 
 ## My process
 
