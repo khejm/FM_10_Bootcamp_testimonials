@@ -142,6 +142,7 @@ button {
     background-color: var(--clr-primary-100);
     cursor: pointer;
     padding: .5em .7em;
+    outline: none;
 }  
 
 .bold {
@@ -254,7 +255,6 @@ button {
 .next-btn:hover,
 .prev-btn:hover {
     background-color: var(--clr-primary-200);
-    outline: none;
 }
   
 .attribution { 
