@@ -140,7 +140,7 @@ body {
 
 button {
     background-color: var(--clr-primary-100);
-    cursor: pointer;
+    cursor: default;
     padding: .5em .7em;
     outline: none;
 }  
@@ -236,7 +236,6 @@ button {
 
     position: absolute; 
     top:72vw;
-    cursor: pointer;
     outline: none;
 
 }
