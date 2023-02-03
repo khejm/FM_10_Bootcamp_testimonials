@@ -145,6 +145,7 @@ button {
     outline: none;
 }  
 
+button:active,
 button:focus {
     outline-color: transparent;
     outline: none;
