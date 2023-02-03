@@ -18,7 +18,7 @@ const slidersRender = userArray.map((user, index) => {
     slidePosition = "next";
 
     return `
-            <div class="testimonial ${slidePosition} child">
+            <div class="testimonial ${slidePosition}">
                 <div class="images">
                     <img class="profile-img" src=${img} alt="${name} profile photo">
                 </div>
