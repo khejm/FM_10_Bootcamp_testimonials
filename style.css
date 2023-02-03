@@ -252,10 +252,10 @@ button {
     margin-left: -1.2px;
 }
 
-.next-btn:hover,
+/* .next-btn:hover,
 .prev-btn:hover {
     background-color: var(--clr-primary-200);
-}
+} */
   
 .attribution { 
     font-size: 1.1rem; 
