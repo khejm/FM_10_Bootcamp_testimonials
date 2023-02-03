@@ -237,6 +237,7 @@ button {
     position: absolute; 
     top:72vw;
     cursor: pointer;
+    outline: none;
 
 }
 
